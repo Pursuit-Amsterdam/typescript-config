@@ -1,0 +1,27 @@
+{
+  "name": "@pursuit-amsterdam/typescript-config",
+  "version": "1.0.0",
+  "description": "TypeScript configuration for Pursuit Amsterdam projects",
+  "main": "base.json",
+  "files": [
+    "base.json",
+    "next.json",
+    "react.json",
+    "node.json"
+  ],
+  "keywords": [
+    "typescript",
+    "config",
+    "pursuit-amsterdam",
+    "tsconfig"
+  ],
+  "author": "Pursuit Amsterdam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pursuit-Amsterdam/typescript-config.git"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
