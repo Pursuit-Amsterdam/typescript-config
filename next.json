@@ -4,9 +4,6 @@
   "compilerOptions": {
     "jsx": "preserve",
     "baseUrl": ".",
-    "paths": {
-      "@/*": ["./src/*"]
-    },
     "plugins": [
       {
         "name": "next"
