@@ -23,8 +23,5 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
-  },
-  "publishConfig": {
-    "@pursuit-amsterdam:registry": "https://npm.pkg.github.com"
   }
 }
