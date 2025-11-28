@@ -3,8 +3,9 @@
   "extends": "./react.json",
   "compilerOptions": {
     "jsx": "preserve",
-    "module": "esnext",
-    "moduleResolution": "bundler",
+    "module": "nodenext",
+    "bundler": "nodenext",
+    "moduleResolution": "nodenext",
     "baseUrl": ".",
     "plugins": [
       {
